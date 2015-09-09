@@ -1,0 +1,1 @@
+The "Native" folder & its sub folders need to be included due to it storing the new custom armors+textures and the module.ini must have the load_mod_resource = armor_package_b line :)  
