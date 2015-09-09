@@ -10,7 +10,8 @@ It adds many more items for players and keeps compaitibilty with native,allowing
 to also play on the server with the mod.It also reorginises the equipment UI when a player is on the selection screen 
 on the server and adds loads of custom armors which aren't availble in the current version of NeoGk.
 
-The full source code is under the src/ directory.
+The full source code is under the src/ directory,a special installer was also made to make it easy for the client to install
+the mod,it can easily be modified by someone to fit their spesfic needs,link: https://github.com/DelGruth/Mount-Blade-Warband-Enhancement-Project
 
 The code is released under MIT license which is written below.
 
