@@ -10,6 +10,8 @@ It adds many more items for players and keeps compaitibilty with native,allowing
 to also play on the server with the mod.It also reorginises the equipment UI when a player is on the selection screen 
 on the server and adds loads of custom armors which aren't availble in the current version of NeoGk.
 
+The full source code is under the src/ directory.
+
 The code is released under MIT license which is written below.
 
 The MIT License (MIT)
